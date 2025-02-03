@@ -1,0 +1,54 @@
+h1{
+    color: red;
+}
+
+#heading{
+    color: rgb(21, 198, 92);
+    font-size: 25px;
+    font-weight: bolder;
+    
+    
+}
+span{
+    background-color: yellow;
+}
+
+.statements{
+    margin-left: 20px;
+
+    
+}
+.statements2{
+    letter-spacing: 4px;
+    color: brown;
+   word-spacing: 10px;
+   margin-top: 50px;
+}
+
+#listelement{
+    background-color: yellow;
+    font-weight: bold;
+}
+#paragraph{
+    font-size: 19px;
+    color: brown;
+}
+
+#smallheading{
+    color: brown;
+    font-weight: 400;
+    font-size: 9px;
+}
+
+#italicline{
+    color: brown;
+  
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(81, 188, 223);
+    border: 1px solid black;
+    border-radius: 2px;
+    text-decoration: none;
+   padding: 2px;
+}
